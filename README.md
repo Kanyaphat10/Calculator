@@ -15,19 +15,19 @@ Edit version : coming soon
 
 ## Available Scripts
 
-###Type this command to set PowerShell to allow script execution only for this session (temporarily):
+### Type this command to set PowerShell to allow script execution only for this session (temporarily):
 
 ```bash
     Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
 
-###Used to install dependencies required by the project, making the project workable after you clone or download it from somewhere.
+### Used to install dependencies required by the project, making the project workable after you clone or download it from somewhere.
 
 ```bash
     npm install
 ```
 
-###Used to start a development server for your Vite-based project (or any tools configured in the project's package.json), which will put your React project in development mode and the output can be viewed in a browser right away.
+### Used to start a development server for your Vite-based project (or any tools configured in the project's package.json), which will put your React project in development mode and the output can be viewed in a browser right away.
 
 ```bash
     npm run dev
